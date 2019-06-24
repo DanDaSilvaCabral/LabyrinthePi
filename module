@@ -1,0 +1,3 @@
+def deplacement()
+  vecteur = input("Quel mouvement souhaitez-vous operrer?")
+  
